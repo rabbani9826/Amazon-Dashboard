@@ -1,4 +1,7 @@
 # Amazon-Dashboard
+
+📌 This project is part of my Data Analytics portfolio showcasing Power BI dashboard development skills.
+
 📊 Amazon Sales Analytics Dashboard (Power BI)
 🔎 Project Overview
 
